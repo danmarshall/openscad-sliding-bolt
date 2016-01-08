@@ -1,3 +1,9 @@
+/*
+Sliding Bolt
+https://github.com/danmarshall/openscad-sliding-bolt.git
+License: Apache 2.0
+*/
+
 module slidingbolt(travel, radius, height, lip, clearance, bolt_radius, flathead_radius, standoff, action) {
 	$fn = 50;
 	h2 = height / 2;
