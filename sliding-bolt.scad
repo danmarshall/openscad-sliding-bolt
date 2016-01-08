@@ -1,6 +1,6 @@
 /*
 Sliding Bolt
-https://github.com/danmarshall/openscad-sliding-bolt.git
+https://github.com/danmarshall/openscad-sliding-bolt
 License: Apache 2.0
 */
 
